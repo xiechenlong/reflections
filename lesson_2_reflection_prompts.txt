@@ -4,6 +4,9 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 缓存区的存在可以让你一次提交多个文件，因为这些文件可能是属于同一逻辑改动。
+@Jeffrey Middleton，你执行一项任务后，又因其它事情执行了另一项任务，
+如果没有staging area 那你只能同时commit两项任务，而staging area
+就可以让你分开commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
