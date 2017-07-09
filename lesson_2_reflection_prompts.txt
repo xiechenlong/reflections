@@ -20,6 +20,8 @@ organized? How would branches help?
 而且当你对当前这个功能或试验感到厌烦时，可以切换到其它分支。
 
 How do the diagrams help you visualize the branch structure?
+这其实就是一个有向图，每次提交都会指向上一次的的版本。图让你清楚地看到各个分支，
+及两个版本是否是“道路连通的”。
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
