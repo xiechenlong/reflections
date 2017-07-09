@@ -25,6 +25,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+根据最初共同版本历史来更改，加的补上，减的拿掉，现在还没考虑冲突的情况。
+因为合并的过程中，其实不会改变父级关系，用图可以清楚地看到这点。
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
