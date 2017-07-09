@@ -14,6 +14,11 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 当我有多种方案时，我就可以用分支的方式来改动程序，而不需要保存多个文件夹。
 
+@Mike Wales, 主分支是稳定的版本，不会有bug。再建立一个开发分支，用于开发。
+当你想增加一个功能或修复bug或试验某些功能时也新建一个分支，在这个分支上解决好问题，
+再合并到主分支中去。
+而且当你对当前这个功能或试验感到厌烦时，可以切换到其它分支。
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
