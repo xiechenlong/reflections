@@ -12,6 +12,7 @@ git diff 即可查看现在所做的更改，这就可以判断是否是一次�
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+当我有多种方案时，我就可以用分支的方式来改动程序，而不需要保存多个文件夹。
 
 How do the diagrams help you visualize the branch structure?
 
